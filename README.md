@@ -22,3 +22,24 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Tech
+
+```sh
+Vite
+React-Redux
+Typescript
+Boostrap
+Firebase
+```
+### accessibility
+
+```sh
+Full responsive
+```
+### Team
+
+```sh
+Luifer7
+ChrisHuila
+```
