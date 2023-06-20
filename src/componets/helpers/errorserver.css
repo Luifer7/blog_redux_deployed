@@ -1,0 +1,29 @@
+.serverError{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+.serverError-container{
+    display: grid;
+    align-items: center;
+     row-gap: 1rem;
+}
+@media (min-width: 992px) {
+    .serverError-container{
+        grid-template-columns: 50% 50%;  
+        width: 50%;   
+    }
+}
+.serverError-info{
+    color: var(--first-color);
+    font-size: var(--h3-font-size);
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    margin: 0;
+    text-align: center;
+}
+.serverError-img {
+    max-width: 100%;
+    width: 300px;
+}

@@ -1,0 +1,40 @@
+//Checkbox
+export const SHOW_NEWS = "SHOW_NEWS";
+export const SHOW_POST = "SHOW_POST";
+
+//Auth
+export const SIGN_UP_USER = "SIGN_UP_USER"
+export const LOG_OUT_USER = "LOG_OUT_USER"
+
+//Articles
+export const LOAD_ARTICLES = "LOAD_ARTICLES";
+export const GET_ARTICLES_SUCCES = "GET_ARTICLES_SUCCES";
+export const ARTICLES_TOTAL_COUNTS = "ARTICLES_TOTAL_COUNTS";
+export const SORTED_ARTICLES = "SORTED_ARTICLES";
+
+//Posts
+export const LOAD_POSTS = "LOAD_POSTS";
+export const GET_ALLPOSTS = "GET_ALLPOSTS";
+export const GET_POST_SUCCES = "GET_POST_SUCCES";
+export const SORTED_POSTS = "SORTED_POSTS";
+
+//Form entry
+export const ADD_FORM_TITTLE = "ADD_FORM_TITTLE"
+export const ADD_FORM_TAGLINE = "ADD_FORM_TAGLINE"
+export const ADD_FORM_COMMENT = "ADD_FORM_COMMENT"
+export const ADD_FORM_CATEGORY = "ADD_FORM_CATEGORY"
+export const ADD_FORM_TAGGS = "ADD_FORM_TAGGS"
+export const ADD_FORM_PARAGRAPH_ONE = "ADD_FORM_PARAGRAPH_ONE"
+export const ADD_FORM_PARAGRAPH_TWO = "ADD_FORM_PARAGRAPH_TWO"
+export const ADD_FORM_IMG_NAME_ONE = "ADD_FORM_IMG_NAME_ONE"
+export const ADD_FORM_IMG_NAME_TWO = "ADD_FORM_IMG_NAME_TWO"
+export const ADD_FORM_FILE_CONTENT_ONE = "ADD_FORM_FILE_CONTENT_ONE"
+export const ADD_FORM_FILE_CONTENT_TWO = "ADD_FORM_FILE_CONTENT_TWO"
+
+//Change preview
+export const MAKE_RESIZE = "MAKE_RESIZE"
+
+
+// VIEWER
+export const SET_VIEWER = "SET_VIEWER";
+export const GET_ID_POST = "GET_ID_POST";
